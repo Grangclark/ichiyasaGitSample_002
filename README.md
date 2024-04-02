@@ -1,1 +1,3 @@
-# ichiyasaGitSample_002
+# ichiyasaGitSample
+『いちばんやさしいGit&GitHubの教本』のサンプルプロジェクト
+
